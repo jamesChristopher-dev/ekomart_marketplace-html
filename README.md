@@ -1,6 +1,18 @@
 Welcome to Ekomart, a premium, fully responsive eCommerce HTML template meticulously crafted for grocery stores, organic food shops, online supermarkets, and multi-vendor marketplaces. As the creator of this template, I designed it from the ground up to deliver a seamless, user-centric shopping experience that combines modern aesthetics with robust functionality. Built with the latest web technologies, Ekomart empowers developers and business owners to launch high-performance online stores quickly and efficiently. Whether you're building a single-vendor grocery site or a multi-vendor platform, this template provides the flexibility and scalability needed to stand out in the competitive eCommerce landscape.
 This README serves as a comprehensive guide to the template's architecture, development journey, features, and usage. It's designed to showcase not only the end product but also the thoughtful engineering behind it—highlighting my expertise in front-end development, responsive design, and user experience optimization. If you're a recruiter evaluating my portfolio, you'll see how this project demonstrates proficiency in HTML5, CSS3, JavaScript, and Bootstrap 5, along with best practices in code organization, performance tuning, and cross-browser compatibility.
 <img width="1920" height="1080" alt="Sem Título-1" src="https://github.com/user-attachments/assets/834d1134-c5ff-4a03-87a1-751ed54acd29" />
+ekomart/
+├── assets/
+│   ├── css/          # Minified CSS files and themes
+│   ├── js/           # JavaScript files and plugins
+│   ├── images/       # Product images, icons, and placeholders
+│   └── fonts/        # Custom fonts
+├── dashboard/        # Admin panel pages
+├── shop/             # Shop-related pages (grids, details)
+├── vendor/           # Vendor management pages
+├── index.html        # Main homepage (with variations like index-2.html)
+├── README.md         # This file
+└── documentation/    # Detailed docs and Figma file
 <img width="1920" height="1080" alt="Sem Título-2" src="https://github.com/user-attachments/assets/f134ddb0-1e4d-4da2-aaef-70de0402916a" />
 Introduction
 Ekomart is more than just a template—it's a complete eCommerce solution tailored for the grocery and food industry. With 5 stunning homepage variations and over 50 inner pages, it covers everything from product browsing and vendor management to checkout and admin dashboards. The template supports RTL (Right-to-Left) languages out of the box, making it ideal for global markets. Its clean, modular code ensures easy customization, while built-in features like quick view, wishlist, and mini cart enhance user engagement and conversion rates.
