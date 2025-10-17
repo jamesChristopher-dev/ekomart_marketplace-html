@@ -245,11 +245,10 @@ A static admin dashboard is included (`dashboard/index.html`) and simulates the 
 
 ## Support & Contact
 
-**Author / Maintainer:** Your Name
+**Author / Maintainer:** James Christopher
 
-* Portfolio / Contact: `https://your-portfolio.example.com`
-* Email: `your.email@example.com`
-  *(Replace placeholders with your real contact info.)*
+* Portfolio / Contact: `https://github.com/jamesChristopher-dev`
+* Email: `jameschristopher.contact@gmail.com`
 
 Support policy: lifetime free updates for template bugfixes; response time within 24–48 hours for support requests.
 
